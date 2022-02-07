@@ -1,3 +1,6 @@
+class Sum {
+
+}
 fun main(){
 
 val a=10
